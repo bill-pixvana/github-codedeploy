@@ -21,3 +21,4 @@ hooks:
   AfterInsall:
     - location: scripts/sleep.sh
     - location: scripts/webserver-start.sh
+    
